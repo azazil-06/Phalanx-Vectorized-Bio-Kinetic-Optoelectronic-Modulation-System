@@ -1,4 +1,4 @@
-#   Phalanx-Vectorized Bio-Kinetic Optoelectronic Modulation System (PV-BOMS) 
+# Phalanx-Vectorized Bio-Kinetic Optoelectronic Modulation System (PV-BOMS)
 ---
 ### *Codename: The "Aggressive" LED Controller*
 
@@ -11,13 +11,13 @@ Ever wanted to tell your room to "shut up" or "lighten up" without saying a word
 ## 📸 Proof of Concept
 
 <div align="center">
-  <img src="Output/Sshot 2026 2026-04-22 120332-04-22 120332.png" width="400" alt="Gesture Detection Dashboard">
+  <img src="Output/demo_screenshot.png" width="400" alt="Gesture Detection Dashboard">
   <p><i>The "Advanced" Dashboard</i></p>
   
-  <br>trols muted loop>
-    <source s
-    rsource src="Outputcbandicam%202026-04-08%2011-08-52-727.mp4" type="="Out/mp4"put /b2You0%br-wser08-52 -o27sypeort "hd mp4"> tag
-   Yvodeorowser does not support the video tag.
+  <br>
+
+  <video src="Output/demo_video.mp4" width="400" controls muted loop>
+    Your browser does not support the video tag.
   </video>
   <p><i>C-TRACKER</i></p>
 </div>
@@ -26,7 +26,7 @@ Ever wanted to tell your room to "shut up" or "lighten up" without saying a word
 
 ## 🤔 What is this?
 
-The **APV-BOMS** is a state-of-the-art **Spite-Based Automation System**. Utilizing **Heuristic Phalangeal Landmark Vectorization** via **MediaPipe** and **OpenCV**, we perform real-time spatial analysis of hand geometry. When the system identifies a specific vertical phalanx-vector orientation (informally known as "The Bird"), it triggers an asynchronous serial signal to an **Arduino** to modulate the photonic output of a semiconductor diode (the LED).
+The **PV-BOMS** is a state-of-the-art **Spite-Based Automation System**. Utilizing **Heuristic Phalangeal Landmark Vectorization** via **MediaPipe** and **OpenCV**, we perform real-time spatial analysis of hand geometry. When the system identifies a specific vertical phalanx-vector orientation (informally known as "The Bird"), it triggers an asynchronous serial signal to an **Arduino** to modulate the photonic output of a semiconductor diode (the LED).
 
 ### Why?
 - **Efficiency**: Why walk 3 steps to a switch when you can flip it off from your desk?
