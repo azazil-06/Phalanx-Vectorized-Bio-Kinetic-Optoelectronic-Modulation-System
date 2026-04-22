@@ -53,7 +53,7 @@ The **PV-BOMS** is a state-of-the-art **Spite-Based Automation System**. Utilizi
     pip install opencv-python mediapipe pyserial numpy
     ```
 3.  **Flash the Arduino**: Upload `hardware_Sketch/ard.ino` to your board.
-4.  **Engage**:
+4.  **Engage**: Ensure hardware connections, ivcam(if used) & proceed to point of no return.
     ```bash
     python capture.py
     ```
@@ -63,9 +63,9 @@ The **PV-BOMS** is a state-of-the-art **Spite-Based Automation System**. Utilizi
 
 ## ⚠️ Safety Warning
 
-- **Do not** use this during Zoom calls with your boss.
-- **Caution** use at your own risk.
-- **Risk** the image recognition software for fan & light,3d mo-cap has been removed due to risk of frying your potato.
+- **Do not** :use this during Zoom calls with your boss.
+- **Caution** :use at your own risk.
+- **Risk** :the image recognition software for fan & light,3d mo-cap has been removed due to risk of frying your potato.
 - The system has a **1-second cooldown** to prevent accidental "strobe-light-of-rage" effects.
 
 ---
