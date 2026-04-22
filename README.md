@@ -1,6 +1,6 @@
 # Phalanx-Vectorized Bio-Kinetic Optoelectronic Modulation System (PV-BOMS)
 ---
-### *Codename: Contactless Optical Commanding Kinetics (C.O.C.K)*
+### *Gesture Controlled Home Automation System*
 
 ### *Because sometimes, a normal light switch is just "fun".*
 
