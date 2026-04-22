@@ -1,8 +1,8 @@
 # Phalanx-Vectorized Bio-Kinetic Optoelectronic Modulation System (PV-BOMS)
 ---
-### *Codename: The "Aggressive" LED Controller*
+### *Codename: Contactless Optical Commanding Kinetics (C.O.C.K)*
 
-### *Because sometimes, a normal light switch is just too polite.*
+### *Because sometimes, a normal light switch is just "fun".*
 
 Ever wanted to tell your room to "shut up" or "lighten up" without saying a word? This project combines high-tech computer vision with low-brow social gestures to give you the ultimate power over a single LED.
 
@@ -27,10 +27,10 @@ Ever wanted to tell your room to "shut up" or "lighten up" without saying a word
 
 ## 🤔 What is this?
 
-The **PV-BOMS** is a state-of-the-art **Spite-Based Automation System**. Utilizing **Heuristic Phalangeal Landmark Vectorization** via **MediaPipe** and **OpenCV**, we perform real-time spatial analysis of hand geometry. When the system identifies a specific vertical phalanx-vector orientation (informally known as "The Bird"), it triggers an asynchronous serial signal to an **Arduino** to modulate the photonic output of a semiconductor diode (the LED).
+The **PV-BOMS** is a state-of-the-art **Spite-Based Automation System**. Utilizing **Heuristic Phalangeal Landmark Vectorization** via **MediaPipe** and **OpenCV**, it performs real-time spatial analysis of hand geometry. When the system identifies a specific vertical phalanx-vector orientation (informally known as "The Nadu Viral (malayalam)"), it triggers an asynchronous serial signal to an **Arduino** which powers a relay to modulate the photonic output of a semiconductor diode (the LED) & the rotational propulsion of a brushless motor.
 
 ### Why?
-- **Efficiency**: Why walk 3 steps to a switch when you can flip it off from your desk?
+- **Efficiency**: Why walk 3 steps to a switch, hassle with it when you can flip it off from your desk?
 - **Catharsis**: Release your daily frustration while staying productive.
 - **Science**: We are quantitatively analyzing the Euclidean ratio of the middle phalangeal tip relative to the metacarpophalangeal base. It's essentially a PhD thesis in kinetic social commentary.
 
@@ -41,13 +41,13 @@ The **PV-BOMS** is a state-of-the-art **Spite-Based Automation System**. Utilizi
 - **Python 3.x**: The brains.
 - **OpenCV**: To see your frustration.
 - **MediaPipe**: To calculate exactly how much you mean it.
-- **Arduino**: The muscle (toggling pin 11).
+- **Arduino**: The muscle.
 
 ---
 
 ## 🚀 How to Launch the Spite-Box
 
-1.  **Hardware**: Plug your Arduino into `COM7` (or change it in `capture.py`). Make sure an LED is on Pin 11.
+1.  **Hardware**: Plug your Arduino into `COM7`(hardwired). Make sure an Light relay is on Pin 11 & Fan relay on 12.
 2.  **Dependencies**:
     ```bash
     pip install opencv-python mediapipe pyserial numpy
@@ -64,7 +64,8 @@ The **PV-BOMS** is a state-of-the-art **Spite-Based Automation System**. Utilizi
 ## ⚠️ Safety Warning
 
 - **Do not** use this during Zoom calls with your boss.
-- **Do not** point it at your mother.
+- **Caution** use at your own risk.
+- **Risk** the image recognition software for fan & light,3d mo-cap has been removed due to risk of frying your potato.
 - The system has a **1-second cooldown** to prevent accidental "strobe-light-of-rage" effects.
 
 ---
