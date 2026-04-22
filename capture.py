@@ -78,6 +78,7 @@ while camera.isOpened():
             for i, lm in enumerate(hand_lms.landmark):
                
                #metric
+               #
                 x_pos = 20 if i < 11 else 220
                 y_pos = 180 + ((i % 11) * 25)
                 cv2.putText(black_panel, f"L{i}: {lm.x:.2f},{lm.y:.2f},{lm.z:.2f}", 
