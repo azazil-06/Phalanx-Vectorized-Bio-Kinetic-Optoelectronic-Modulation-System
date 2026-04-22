@@ -16,12 +16,10 @@ Ever wanted to tell your room to "shut up" or "lighten up" without saying a word
   
   <br>
 
-  <video width="400" controls muted loop>
-    <source src="./Output/demo_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <a href="./Output/demo_video.mp4">View Raw Video File</a>
+  <a href="https://youtu.be/yfnHCQr3u4U">
+    <img src="https://img.youtube.com/vi/yfnHCQr3u4U/0.jpg" width="400" alt="Watch the Demo Video">
+  </a>
+  <p><i>[Click here to watch the demo on YouTube](https://youtu.be/yfnHCQr3u4U)</i></p>
   <p><i>C-TRACKER</i></p>
 </div>
 
