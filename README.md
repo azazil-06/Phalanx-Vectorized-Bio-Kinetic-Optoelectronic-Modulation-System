@@ -11,13 +11,17 @@ Ever wanted to tell your room to "shut up" or "lighten up" without saying a word
 ## 📸 Proof of Concept
 
 <div align="center">
-  <img src="Output/demo_screenshot.png" width="400" alt="Gesture Detection Dashboard">
+  <img src="./Output/demo_screenshot.png" width="400" alt="Gesture Detection Dashboard">
   <p><i>The "Advanced" Dashboard</i></p>
   
   <br>
 
-  <video src="Output/demo_video.mp4" width="400" controls muted loop></video>
-  <p><i>[Click here if video doesn't play](Output/demo_video.mp4)</i></p>
+  <video width="400" controls muted loop>
+    <source src="./Output/demo_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <a href="./Output/demo_video.mp4">View Raw Video File</a>
   <p><i>C-TRACKER</i></p>
 </div>
 
