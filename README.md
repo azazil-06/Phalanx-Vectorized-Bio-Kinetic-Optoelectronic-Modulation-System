@@ -1,4 +1,4 @@
-# Phalanx-Vectorized Bio-Kinetic Optoelectronic Modulation System (PV-BOMS)
+# Phalanx Vectorized BioKinetic Optoelectronic Modulation System (PV-BOMS)
 ---
 ## *Gesture Controlled Home Automation System*
 
